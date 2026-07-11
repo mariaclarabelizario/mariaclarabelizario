@@ -25,6 +25,6 @@ Uso tinta acrílica sobre tela, explorando camadas e transparências para criar 
 
 
 ### 📬 Contato
-📧 maria@example.com  
-📸 [Instagram](https://instagram.com/mariaclarabelizario)  
+📧 mariaclarasousabelizario@gmail.com  
+📸 [bellartes_atelie](https://instagram.com/mariaclarabelizario)  
 🐙 [GitHub](https://github.com/mariaclarabelizario)
