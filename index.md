@@ -1,22 +1,32 @@
-# Maria Clara Belizario
+ Maria Clara Souza Belizario  
+## Arte em Quadros  
 
-## teste
+### 🎨 Sobre mim
+Sou artista visual apaixonada por cores, formas e emoções. Minhas obras exploram o contraste entre o abstrato e o figurativo, buscando transmitir sensações únicas ao observador.
 
-### teste
+### 🖼️ Galeria
+#### Série: Cores da Alma
+- *Título:* Reflexos  
+  *Descrição:* Um estudo sobre luz e introspecção.  
+  ![Reflexos](./reflexos.jpg)
 
-texto comum...
+- *Título:* Horizonte  
+  *Descrição:* Representa a esperança e o movimento do tempo.  
+  ![Horizonte](./horizonte.jpg)
 
- - lista
- - lista
-    - lista dentro da listas
+#### Série: Abstratos Urbanos
+- *Título:* Concreto Vivo  
+  *Descrição:* Mistura de geometria e caos urbano.  
+  ![Concreto Vivo](./concreto_vivo.jpg)
 
-1. *Lista Numerada*
-1. **automáticamente**
+### 🧵 Técnica e Materiais
+Uso tinta acrílica sobre tela, explorando camadas e transparências para criar profundidade e contraste.
 
+### 🏆 Exposições e Premiações
+- Exposição “Cores do Cotidiano” — Galeria Municipal de Sorocaba (2025)  
+- Menção honrosa no concurso “Arte Contemporânea Brasileira” (2024)
 
-[teste Link]( google.com)
-
-![Minha imagem](./Capturar.PNG)
-![texto alternativo](teste.google.com)
-
-#### teste
+### 📬 Contato
+📧 maria@example.com  
+📸 [Instagram](https://instagram.com/mariaclarabelizario)  
+🐙 [GitHub](https://github.com/mariaclarabelizario)
