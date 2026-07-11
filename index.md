@@ -22,9 +22,7 @@ Sou artista visual apaixonada por cores, formas e emoções. Minhas obras explor
 ### 🧵 Técnica e Materiais
 Uso tinta acrílica sobre tela, explorando camadas e transparências para criar profundidade e contraste.
 
-### 🏆 Exposições e Premiações
-- Exposição “Cores do Cotidiano” — Galeria Municipal de Sorocaba (2025)  
-- Menção honrosa no concurso “Arte Contemporânea Brasileira” (2024)
+
 
 ### 📬 Contato
 📧 maria@example.com  
