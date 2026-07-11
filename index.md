@@ -8,7 +8,7 @@ texto comum...
 
  - lista
  - lista
-    - lista dentro da lista
+    - lista dentro da listas
 
 1. *Lista Numerada*
 1. **automáticamente**
@@ -16,7 +16,7 @@ texto comum...
 
 [teste Link]( google.com)
 
-
+![Minha imagem](./Capturar.PNG)
 ![texto alternativo](teste.google.com)
 
 #### teste
