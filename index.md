@@ -8,7 +8,7 @@ Sou artista visual apaixonada por cores, formas e emoções. Minhas obras explor
 #### Série: Cores da Alma
 - *Título:* Reflexos  
   *Descrição:* Um estudo sobre luz e introspecção.  
-  ![Reflexos](./reflexos.jpghttps://photos.app.goo.gl/MTsG7AgAwRzBY8Ag6)
+  ![Reflexos](./reflexos.jpg)
 
 - *Título:* Horizonte  
   *Descrição:* Representa a esperança e o movimento do tempo.  
